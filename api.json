@@ -1,0 +1,36 @@
+[
+    {
+        "Nombre": "Karen", 
+        "Apellido": "Bautista",
+        "Email": "karenonaly@gmail.com",
+        "Evento": "Tecnicas de extraccion de cafe"        
+    },
+    
+    {
+        "Nombre": "Onaly",
+        "Apellido": "Terrero",
+        "Email": "onalykaren@gmail.com",
+        "Evento": "4 recetas de cafe para principiantes" 
+    },
+    
+    {
+        "Nombre": "Melany",
+        "Apellido": "Eusebio",
+        "Email": "melanyeusebio@gmail.com",
+        "Evento": "Tecnicas de extraccion de cafe" 
+    },
+    
+    {
+        "Nombre": "Franchesca",
+        "Apellido": "De La Cruz",
+        "Email": "cristaldelacruz@gmail.com",
+        "Evento": "Tecnicas de extraccion de cafe" 
+    },
+
+    {
+        "Nombre": "Darwin",
+        "Apellido": "De Leon",
+        "Email": "deyvideleon@gmail.com",
+        "Evento": "Taller para tostar y moler granos" 
+    }
+]
